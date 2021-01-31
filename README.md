@@ -1,12 +1,9 @@
-![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=w37fhy&show_icons=true&theme=merko)
+转载说明 :
+全部为转载大佬们的脚本、教程及视频教程，在此感谢大佬们的辛苦劳动！
+* 只是搬运和同步，不维护脚本！
+* 请自行测试脚本的可用性.
 
-### 说明 :
-
-* 只是搬运和同步更新大佬脚本，不负责维护脚本！
-* 只测试自用脚本，其他大部分脚本未测试可用性.
-* 更新通知[电报频道](https://t.me/w37fhy)
-
-### 视频教程（欢迎订阅YouTube频道）：
+### 转载：视频教程（欢迎订阅YouTube频道）：
 * [圈X视频教程第一期](https://youtu.be/G1oUtOA1J2w)
 * [圈X视频教程第二期](https://youtu.be/pLZDK9SACLQ)
 * [圈X视频教程第三期](https://youtu.be/kKa26Fj0MJA)
